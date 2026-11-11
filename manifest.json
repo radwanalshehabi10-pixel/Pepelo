@@ -1,6 +1,6 @@
 {
   "name": "Tztezo Duo",
-  "short_name": "Duo",
+  "short_name": "Tztezo Duo",
   "description": "Co-op puzzle game for two heroes: Tztezo and Tztezo17.",
   "start_url": "./index.html",
   "scope": "./",
