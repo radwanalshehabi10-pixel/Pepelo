@@ -1,0 +1,16 @@
+{
+ "pack": "My Pack",
+ "levels": [
+  {
+   "name": "Level name",
+   "hint": "Optional hint shown under the map",
+   "rows": [
+    "#########",
+    "#A.....a#",
+    "#.#####.#",
+    "#B.....b#",
+    "#########"
+   ]
+  }
+ ]
+}
